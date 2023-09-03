@@ -27,7 +27,7 @@ const crearProducto = async (req, res) => {
   }
 };
 
-//listar productos
+//listar productos en db
 
 module.exports = {
   crearProducto,
